@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Id": "com.github.spotifyplasmoid",
+    "Name": "Plasma Spotify Controls",
+    "Description": "Active media controls with Spotify library and playlist actions",
+    "Icon": "spotify-companion",
+    "Version": "0.2.0",
+    "License": "GPL-3.0-or-later",
+    "Category": "Multimedia",
+    "EnabledByDefault": true
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPackageStructure": "Plasma/Applet"
+}

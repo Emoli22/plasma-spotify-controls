@@ -1,0 +1,30 @@
+# CMake and Qt build output
+/build/
+/cmake-build-*/
+/.qt/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.aws/
+.codex/
+.agents/
+*.swp
+*~
+.DS_Store
+
+# Never commit local credentials, Plasma state, or generated packages
+*.kdev4
+*.plasmoid
+*.tar.xz
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.kdbx
+*token*
+*credential*
+secrets/

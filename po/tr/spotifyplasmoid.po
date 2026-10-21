@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: spotifyplasmoid\n"
+"Language: tr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Diagnostics"
+msgstr "Tanılama"
+
+msgid "Spotify Client ID:"
+msgstr "Spotify İstemci Kimliği:"
+
+msgid "Paste the Client ID from Spotify Developer Dashboard"
+msgstr "Spotify Developer Dashboard'daki İstemci Kimliğini yapıştırın"
+
+msgid "Redirect URI:"
+msgstr "Yönlendirme URI'si:"
+
+msgid "Connection maintenance:"
+msgstr "Bağlantı bakımı:"
+
+msgid "These actions affect only this widget's local Spotify data. They do not change your Spotify library or playlists."
+msgstr "Bu işlemler yalnızca widget'ın yerel Spotify verisini etkiler. Spotify kitaplığınızı veya çalma listelerinizi değiştirmez."
+
+msgid "Clear playlist cache"
+msgstr "Çalma listesi önbelleğini temizle"
+
+msgid "Reset Spotify connection"
+msgstr "Spotify bağlantısını sıfırla"
+
+msgid "Saved API and connection errors"
+msgstr "Kaydedilen API ve bağlantı hataları"
+
+msgid "No saved errors for this Spotify Client ID."
+msgstr "Bu Spotify İstemci Kimliği için kaydedilmiş hata yok."
+
+msgid "Clear saved error log"
+msgstr "Kaydedilen hata günlüğünü temizle"
+
+msgid "No media player is active"
+msgstr "Etkin medya oynatıcı yok"
+
+msgid "Previous track"
+msgstr "Önceki parça"
+
+msgid "Next track"
+msgstr "Sonraki parça"
+
+msgid "Pause"
+msgstr "Duraklat"
+
+msgid "Play"
+msgstr "Oynat"
+
+msgid "Add to Liked Songs"
+msgstr "Beğenilen Şarkılara ekle"
+
+msgid "Remove from Liked Songs"
+msgstr "Beğenilen Şarkılardan çıkar"
+
+msgid "Open in Spotify"
+msgstr "Spotify'da aç"
+
+msgid "Add this track to playlists"
+msgstr "Bu parçayı çalma listelerine ekle"
+
+msgid "Refresh now"
+msgstr "Şimdi yenile"
+
+msgid "Search playlists"
+msgstr "Çalma listelerinde ara"
+
+msgid "Sort"
+msgstr "Sırala"
+
+msgid "Loading playlists…"
+msgstr "Çalma listeleri yükleniyor…"
+
+msgid "Load more playlists"
+msgstr "Daha fazla çalma listesi yükle"
+
+msgid "Recent API errors"
+msgstr "Son API hataları"
+
+msgid "Clear"
+msgstr "Temizle"
+
+msgid "Spotify settings"
+msgstr "Spotify ayarları"
+
+msgid "Connect Spotify"
+msgstr "Spotify'a bağlan"
+
+msgid "Add current track to playlists"
+msgstr "Geçerli parçayı çalma listelerine ekle"
+
+msgid "Add to selected (%1)"
+msgstr "Seçilenlere ekle (%1)"
+
+msgid "Album or video artwork"
+msgstr "Albüm veya video kapağı"
+
+msgid "Clear cached playlist metadata"
+msgstr "Önbellekteki çalma listesi üst verisini temizle"
+
+msgid "Connect Spotify account"
+msgstr "Spotify hesabını bağla"
+
+msgid "Current status: %1"
+msgstr "Geçerli durum: %1"
+
+msgid "Media player"
+msgstr "Medya oynatıcı"
+
+msgid "Open current track in Spotify"
+msgstr "Geçerli parçayı Spotify'da aç"
+
+msgid "Ready"
+msgstr "Hazır"
+
+msgid "Remove saved Spotify authorization and cache"
+msgstr "Kaydedilen Spotify yetkisini ve önbelleği kaldır"
+
+msgid "Reverse playlist sort order"
+msgstr "Çalma listesi sıralamasını tersine çevir"
+
+msgid "Select playlist %1"
+msgstr "%1 çalma listesini seç"
+
+msgid "Spotify API error:\n%1"
+msgstr "Spotify API hatası:\n%1"
+
+msgid "Spotify rate limit: retry available in %1 seconds"
+msgstr "Spotify istek sınırı: %1 saniye sonra yeniden denenebilir"
+
+msgid "Start Spotify, YouTube, or another MPRIS-compatible player"
+msgstr "Spotify, YouTube veya başka bir MPRIS uyumlu oynatıcı başlatın"
+
+msgid "The most recent 20 errors are kept locally. Tokens and Spotify content are never written here."
+msgstr "En son 20 hata yerel olarak tutulur. Belirteçler ve Spotify içeriği buraya hiçbir zaman yazılmaz."

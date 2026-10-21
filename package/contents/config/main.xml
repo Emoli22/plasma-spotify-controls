@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0">
+  <kcfgfile name="" />
+  <group name="General">
+    <entry name="spotifyClientId" type="String"><default></default></entry>
+    <entry name="maintenanceAction" type="String"><default></default></entry>
+    <entry name="maintenanceRevision" type="String"><default>0</default></entry>
+  </group>
+</kcfg>
